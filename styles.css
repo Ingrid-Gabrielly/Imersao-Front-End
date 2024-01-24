@@ -44,3 +44,49 @@ body {
     font-size: 14px;
     font-family: "DM Sans", sans-serif;
 }
+
+.library {
+    color: #b3b3b3;
+    background-color: #121212;
+    border-radius: 0.5rem; 
+    display: flex;
+    justify-content: space-between;
+    min-block-size: 2.5rem; 
+    padding: 0.25rem 0.5rem; 
+    font-weight: 600;
+    font-size: 0.875rem; 
+    margin-top: 0.625rem; 
+    flex-direction: column;
+}
+
+.library .library__button {
+    color: #b3b3b3;
+    margin-right: 0.625rem; 
+    background-color: transparent;
+    border: 0;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    padding: 1.25rem 0.625rem;
+    display: flex;
+}
+
+.library .library__button .fa {
+    font-size: 1.20rem; 
+    margin-right: 0.625rem; 
+    font-weight: 300;
+    padding-right: 0.5rem; 
+}
+
+.library__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.library .library__content .fa-plus {
+    margin: 1.5rem 0.625rem; 
+    font-size: 0.95rem;
+}
