@@ -16,9 +16,7 @@ body {
     background-color: #121212;
     border-radius: 8px;
     padding: 16px 0 0 16px;
-    width: 300px;
-
-    
+    width: 285px;  
 }
 
 .sidebar_navigation .logo img{
@@ -133,6 +131,7 @@ body {
     border: 0;
     width: 113px;
     padding: 10px 20px;
+    cursor: pointer;
 }
 
 .sidebar .cookies{

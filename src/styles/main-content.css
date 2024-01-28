@@ -82,6 +82,7 @@
   width: 150px;
   height: 48px;
   border: none;
+  cursor: pointer;
 }
 
 .header__login .login {
@@ -92,10 +93,11 @@
   font-weight: 700;
   border-radius: 40px;
   border: none;
+  cursor: pointer;
 }
 
 .playlist-container {
-  height: 30%;
+  
   padding-top: 16px;
   margin: 10px;
   border-radius: 10px;
