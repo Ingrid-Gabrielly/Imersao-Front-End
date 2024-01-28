@@ -33,3 +33,16 @@ document.addEventListener('input', function() {
 
     requestApi(searchTerm);
 });
+
+//Bom dia | Boa tarde | Boa noite
+const greetingElement = document.getElementById("greeting");
+const currentHour = new Date().getHours(); // Obtém a hora atual do sistema
+const greetingMessage =
+  currentHour >= 5 && currentHour < 12
+    ? "Bom dia"
+    : currentHour >= 12 && currentHour < 18
+    ? "Boa tarde"
+    : "Boa noite";
+
+greetingElement.textContent = greetingMessage;
+
