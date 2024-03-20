@@ -7,3 +7,17 @@ Foram cinco aulas para desenvolver habilidades avançadas em HTML e CSS, conhece
 ## Linguagens Utilizadas
 CSS | HTML | JavaScript
 :--------- | :------: | -------:
+
+## Durante a Imersão, explorei sobre:
+* Consolidação e ampliação de conhecimentos essenciais em HTML, CSS e Javascript;
+* Criação, na prática, do Front-end da página de navegação de um streaming de música (Spotify);
+* Conceitos mais avançados, como responsividade, posicionamento, animações e design eficiente.
+
+## Cronograma das aulas 
+Data   | Aula
+--------- | ------
+22/01 | Aula 01
+23/01 | Aula 02
+24/01 | Aula 03
+25/01 | Aula 04
+26/01 | Aula 05
